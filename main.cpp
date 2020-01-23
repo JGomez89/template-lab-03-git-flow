@@ -9,5 +9,5 @@ int main()
   cin >> name;
   cout << "Hello " << name << "!" <<  endl;
 
-  return 1;
+  return 0;
 }
